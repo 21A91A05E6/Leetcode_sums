@@ -30,7 +30,7 @@ public:
         // return start->next;
 
         ListNode* fast = head; 
-        for(int i =1; i<=n;i++){
+        for(int i =0; i<n;i++){
             fast = fast->next;
         }
         if(fast==NULL){
@@ -43,9 +43,9 @@ public:
             slow = slow->next;
             fast= fast->next;
         }
-        ListNode* deletenode = slow->next;
+        // ListNode* deletenode = slow->next;
         slow->next = slow->next->next;
-        delete deletenode;
+        // delete deletenode;
 
         return head;
     }
