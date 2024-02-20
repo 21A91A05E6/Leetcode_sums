@@ -12,12 +12,12 @@ public:
                     c+=mat[i][j];
                 }
                 // ((n-(n/2))+1)
-                if(n%2!=0 && i==j && i==n/2 && j==n/2){
-                    a=mat[i][j];
+                // if(n%2!=0 && i==j && i==n/2 && j==n/2){
+                //     a=mat[i][j];
                     
-                }
+                // }
             }
         }
-        return abs(c);
+        return c;
     }
 };
