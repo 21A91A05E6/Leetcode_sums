@@ -1,6 +1,6 @@
 class Solution:
     def maximum69Number (self, num: int) -> int:
-        l=[int(digit) for digit in str(num)]
+        l=[int(d) for d in str(num)]
         
         for i in range(0,len(l)):
             if l[i]==6:
