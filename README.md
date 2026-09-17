@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/21A91A05E6/Leetcode_sums/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/21A91A05E6/Leetcode_sums/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/21A91A05E6/Leetcode_sums/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Matrix
@@ -60,6 +61,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/21A91A05E6/Leetcode_sums/tree/master/1323-maximum-69-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/21A91A05E6/Leetcode_sums/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/21A91A05E6/Leetcode_sums/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3689-maximum-total-subarray-value-i](https://github.com/21A91A05E6/Leetcode_sums/tree/master/3689-maximum-total-subarray-value-i) |
