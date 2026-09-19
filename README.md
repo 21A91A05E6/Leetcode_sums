@@ -41,6 +41,7 @@
 | [0836-rectangle-overlap](https://github.com/21A91A05E6/Leetcode_sums/tree/master/0836-rectangle-overlap) |
 | [1323-maximum-69-number](https://github.com/21A91A05E6/Leetcode_sums/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/21A91A05E6/Leetcode_sums/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/21A91A05E6/Leetcode_sums/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/21A91A05E6/Leetcode_sums/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Matrix
 |  |
@@ -98,4 +99,5 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/21A91A05E6/Leetcode_sums/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/21A91A05E6/Leetcode_sums/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
