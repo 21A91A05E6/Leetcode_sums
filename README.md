@@ -28,6 +28,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/21A91A05E6/Leetcode_sums/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/21A91A05E6/Leetcode_sums/tree/master/0238-product-of-array-except-self) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/21A91A05E6/Leetcode_sums/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/21A91A05E6/Leetcode_sums/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/21A91A05E6/Leetcode_sums/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3689-maximum-total-subarray-value-i](https://github.com/21A91A05E6/Leetcode_sums/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
@@ -35,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/21A91A05E6/Leetcode_sums/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/21A91A05E6/Leetcode_sums/tree/master/0073-set-matrix-zeroes) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/21A91A05E6/Leetcode_sums/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Math
 |  |
 | ------- |
@@ -102,4 +104,12 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/21A91A05E6/Leetcode_sums/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/21A91A05E6/Leetcode_sums/tree/master/1401-circle-and-rectangle-overlapping) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/21A91A05E6/Leetcode_sums/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/21A91A05E6/Leetcode_sums/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
