@@ -44,6 +44,7 @@
 | [1323-maximum-69-number](https://github.com/21A91A05E6/Leetcode_sums/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/21A91A05E6/Leetcode_sums/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/21A91A05E6/Leetcode_sums/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2409-count-days-spent-together](https://github.com/21A91A05E6/Leetcode_sums/tree/master/2409-count-days-spent-together) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/21A91A05E6/Leetcode_sums/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Matrix
 |  |
@@ -89,6 +90,7 @@
 ## String
 |  |
 | ------- |
+| [2409-count-days-spent-together](https://github.com/21A91A05E6/Leetcode_sums/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/21A91A05E6/Leetcode_sums/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/21A91A05E6/Leetcode_sums/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
