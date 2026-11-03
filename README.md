@@ -27,6 +27,7 @@
 | [0040-combination-sum-ii](https://github.com/21A91A05E6/Leetcode_sums/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/21A91A05E6/Leetcode_sums/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/21A91A05E6/Leetcode_sums/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/21A91A05E6/Leetcode_sums/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/21A91A05E6/Leetcode_sums/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/21A91A05E6/Leetcode_sums/tree/master/0238-product-of-array-except-self) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/21A91A05E6/Leetcode_sums/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -106,6 +107,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/21A91A05E6/Leetcode_sums/tree/master/0078-subsets) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/21A91A05E6/Leetcode_sums/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Geometry
 |  |
@@ -125,4 +127,5 @@
 | ------- |
 | [0039-combination-sum](https://github.com/21A91A05E6/Leetcode_sums/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/21A91A05E6/Leetcode_sums/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/21A91A05E6/Leetcode_sums/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
