@@ -33,6 +33,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/21A91A05E6/Leetcode_sums/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/21A91A05E6/Leetcode_sums/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3689-maximum-total-subarray-value-i](https://github.com/21A91A05E6/Leetcode_sums/tree/master/3689-maximum-total-subarray-value-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/21A91A05E6/Leetcode_sums/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/21A91A05E6/Leetcode_sums/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2409-count-days-spent-together](https://github.com/21A91A05E6/Leetcode_sums/tree/master/2409-count-days-spent-together) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/21A91A05E6/Leetcode_sums/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/21A91A05E6/Leetcode_sums/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
 | ------- |
